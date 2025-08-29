@@ -6,6 +6,6 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanzitosZandronum&layout=compact&theme=radical&hide=ShaderLab,HLSL,Mathematica)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanzitosZandronum&layout=compact&theme=merko&hide=ShaderLab,HLSL,Mathematica)
 
 ---
